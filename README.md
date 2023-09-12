@@ -2,7 +2,7 @@
 
 <div align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bevalphilip}/count.svg"/></p> 
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aadhi.xr)
  [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/OpusTechz)
@@ -11,15 +11,15 @@
 </p>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=aadhi000&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=bevalphilip&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>    
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadhi000&theme=highcontrast)](https://github.com/Aadhi000/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bevalphilip&theme=highcontrast)](https://github.com/Aadhi000/github-readme-streak-stats)
 </div>
 
 <p align="center">
-  <a href="https://github.com/Aadhi000">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Aadhi000&theme=react-dark" />
+  <a href="https://github.com/Bevalphilip">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Bevalphilip&theme=react-dark" />
   </a>
 </p>
 
